@@ -1,0 +1,16 @@
+F:\PRJ321\11\11 use method\bin\Debug\net5.0\11 use method.exe
+F:\PRJ321\11\11 use method\bin\Debug\net5.0\11 use method.deps.json
+F:\PRJ321\11\11 use method\bin\Debug\net5.0\11 use method.runtimeconfig.json
+F:\PRJ321\11\11 use method\bin\Debug\net5.0\11 use method.runtimeconfig.dev.json
+F:\PRJ321\11\11 use method\bin\Debug\net5.0\11 use method.dll
+F:\PRJ321\11\11 use method\bin\Debug\net5.0\ref\11 use method.dll
+F:\PRJ321\11\11 use method\bin\Debug\net5.0\11 use method.pdb
+F:\PRJ321\11\11 use method\obj\Debug\net5.0\11 use method.csproj.AssemblyReference.cache
+F:\PRJ321\11\11 use method\obj\Debug\net5.0\11 use method.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRJ321\11\11 use method\obj\Debug\net5.0\11 use method.AssemblyInfoInputs.cache
+F:\PRJ321\11\11 use method\obj\Debug\net5.0\11 use method.AssemblyInfo.cs
+F:\PRJ321\11\11 use method\obj\Debug\net5.0\11 use method.csproj.CoreCompileInputs.cache
+F:\PRJ321\11\11 use method\obj\Debug\net5.0\11 use method.dll
+F:\PRJ321\11\11 use method\obj\Debug\net5.0\ref\11 use method.dll
+F:\PRJ321\11\11 use method\obj\Debug\net5.0\11 use method.pdb
+F:\PRJ321\11\11 use method\obj\Debug\net5.0\11 use method.genruntimeconfig.cache

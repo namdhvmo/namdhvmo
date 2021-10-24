@@ -1,0 +1,15 @@
+F:\PRJ321\11\11\bin\Debug\net5.0\11 use query.exe
+F:\PRJ321\11\11\bin\Debug\net5.0\11 use query.deps.json
+F:\PRJ321\11\11\bin\Debug\net5.0\11 use query.runtimeconfig.json
+F:\PRJ321\11\11\bin\Debug\net5.0\11 use query.runtimeconfig.dev.json
+F:\PRJ321\11\11\bin\Debug\net5.0\11 use query.dll
+F:\PRJ321\11\11\bin\Debug\net5.0\ref\11 use query.dll
+F:\PRJ321\11\11\bin\Debug\net5.0\11 use query.pdb
+F:\PRJ321\11\11\obj\Debug\net5.0\11 use query.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRJ321\11\11\obj\Debug\net5.0\11 use query.AssemblyInfoInputs.cache
+F:\PRJ321\11\11\obj\Debug\net5.0\11 use query.AssemblyInfo.cs
+F:\PRJ321\11\11\obj\Debug\net5.0\11 use query.csproj.CoreCompileInputs.cache
+F:\PRJ321\11\11\obj\Debug\net5.0\11 use query.dll
+F:\PRJ321\11\11\obj\Debug\net5.0\ref\11 use query.dll
+F:\PRJ321\11\11\obj\Debug\net5.0\11 use query.pdb
+F:\PRJ321\11\11\obj\Debug\net5.0\11 use query.genruntimeconfig.cache
